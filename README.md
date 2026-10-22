@@ -2,13 +2,17 @@
 
 中英文双语手作定制网页静态预览版。
 
+## 在线访问
+
+[访问拾曦手作网站](https://claireeeeeeee.github.io/shixi_handmade_github_pages/)
+
 ## 发布到 GitHub Pages
 
 1. 解压本 ZIP 文件。
 2. 在 GitHub 创建一个 **Public** 仓库，例如 `shixi-handmade`。
 3. 进入仓库，选择 **Add file > Upload files**，上传解压后的 `index.html`（和本 README 可选），提交更改。**不要直接上传 ZIP 作为网页。**
 4. 进入 **Settings > Pages**，在 **Build and deployment** 中选择 **Deploy from a branch**，选择 `main` 和 `/(root)`，保存。
-5. 等待部署完成，访问 `https://你的用户名.github.io/shixi-handmade/`。
+5. 部署完成后，访问 [https://claireeeeeeee.github.io/shixi_handmade_github_pages/](https://claireeeeeeee.github.io/shixi_handmade_github_pages/)。
 
 ## 注意
 
