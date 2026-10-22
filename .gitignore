@@ -1,0 +1,10 @@
+.DS_Store
+._*
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+handmade-studio-demo-data*.json
